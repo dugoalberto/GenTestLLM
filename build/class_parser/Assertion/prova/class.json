@@ -1,0 +1,1 @@
+[{"project_name": "Assertion", "filepath": "/Users/albertodugo/PycharmProjects/Assertion/another_classes_folder/prova.py", "class_identifier": "prova", "class_body": "class prova:\n    def __init__(self):\n        self.a = 1\n        self.b = 2"}]

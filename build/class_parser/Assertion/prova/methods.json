@@ -1,0 +1,1 @@
+[{"filepath": "/Users/albertodugo/PycharmProjects/Assertion/another_classes_folder/prova.py", "method_identifier": "__init__", "class_identifier": "prova", "method_full_text": "def __init__(self):\n        self.a = 1\n        self.b = 2"}]

@@ -1,0 +1,7 @@
+config.ini
+identifier.sqlite
+.idea/
+.test/
+__pycache__/
+.env
+.DS_Store
